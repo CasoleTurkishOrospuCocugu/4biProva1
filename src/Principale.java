@@ -1,3 +1,10 @@
+/**
+ * 
+ * @author Casole
+ * 
+ * @version 1.00
+ *
+ */
 
 public class Principale {
 	
